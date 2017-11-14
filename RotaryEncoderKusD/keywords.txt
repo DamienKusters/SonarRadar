@@ -1,0 +1,36 @@
+#######################################
+
+# Syntax Coloring Map
+#######################################
+
+#######################################
+
+# Datatypes (KEYWORD1)
+
+#######################################
+
+#######################################
+
+# Methods and Functions (KEYWORD2)
+
+#######################################
+
+InitializeEncoderKusD	KEYWORD2
+GetSwitchPressKusD	KEYWORD2
+GetDataValueKusD	KEYWORD2
+GetClockValueKusD	KEYWORD2
+GetDirectionKusD	KEYWORD2
+
+
+#######################################
+
+# Instances (KEYWORD1)
+
+#######################################
+
+
+RotaryEncoderKusD	KEYWORD1
+#######################################
+
+# Constants (LITERAL1)
+#######################################

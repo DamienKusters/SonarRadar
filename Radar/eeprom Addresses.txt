@@ -1,0 +1,10 @@
+Data dat in EEPROM bewaart wordt
+
+ByteID		Varable
+0	:	angleMaxDkTv (1)
+1	:	angleBaseDkTv (1)
+2	:	angleCurrentDkTv(1)
+
+3	:	angleMaxDkTv (2)
+4	:	angleBaseDkTv (2)
+5	:	angleCurrentDkTv(2)
