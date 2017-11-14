@@ -1,3 +1,6 @@
+//Created by Damien Kusters
+//10-11-2017
+
 #include <RotaryEncoderKusD.h>
 
 RotaryEncoderKusD rotEnc;
